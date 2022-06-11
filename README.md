@@ -1,6 +1,7 @@
 # cbinarysearch
 
 Binary search in C language to find an element in a sorted array. Numbers are in ascending order.
+
 ---
 
 C dilinde listedeki elemanları küçükten büyüğe sıralama (sort) ve ikili arama algoritması
